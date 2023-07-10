@@ -12,3 +12,5 @@ asdfasdfasdf
 asdfasdfaksdfaklsdjflkajsdfkj
 alterações na main
 texto da nova branch
+
+adicionando texto para levar para stash
